@@ -1,4 +1,4 @@
-# 数学花园 · 圆上的乘法
+# Circle Multiplication — Interactive Math Garden（圆周乘法·交互数学花园）
 
 一个使用 p5.js 的交互数学作品。用简单的乘法和取模，在圆上生成心脏线轮廓、双叶曲线和编织图案。
 
